@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flixster+</string>
+    <string name="most_popular_movies">Most Popular Movies This Week</string>
+    <string name="most_popular_tv_shows">Most Popular TV Shows This Week</string>
+</resources>
